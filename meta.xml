@@ -1,0 +1,6 @@
+<meta>
+	<script src='Client.lua' type='client' cache='false' />
+	<file src='RobotoCondensed-Light.ttf' />
+	<file src='RobotoCondensed-Regular.ttf' />
+	<export function="alert" type="client" />
+</meta>
